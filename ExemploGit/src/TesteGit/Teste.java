@@ -5,6 +5,7 @@ public class Teste {
 		System.out.print("Olá, git");
 		//alterado do github
 		//alterador do eclipse
+		//Teste anotacao
 	}
 
 }
