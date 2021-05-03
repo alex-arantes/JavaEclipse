@@ -6,6 +6,7 @@ public class Teste {
 		//alterado do github
 		//alterador do eclipse
 		//Teste anotacao
+		//Teste nova versão
 	}
 
 }
